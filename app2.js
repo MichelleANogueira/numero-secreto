@@ -1,5 +1,5 @@
 let listaNumerosSorteados[];//cria aqui uma lista vazia
-let numerolimite = 10;// criada essa variável para nao precisar trocar ela em vários locais do codigo.
+let numerolimite = 100;// criada essa variável para nao precisar trocar ela em vários locais do codigo.
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
